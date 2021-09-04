@@ -9,7 +9,7 @@
 <hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=drodil&show_icons=true&theme=dark&hide_border=true" align="center" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drodil&hide_border=true&theme=dark&layout=compact" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drodil&hide_border=true&theme=dark&layout=compact&langs_count=8" align="center" />
 </div>
 <hr>
 <div align="center">

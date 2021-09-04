@@ -45,7 +45,10 @@
 <hr>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=drodil&&style=flat-square" align="center" />
-    <a href="https://paypal.me/dr0dil" target="_blank" style="display: inline-block;">
-      <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center"/>
-   </a>
+   <a href="https://paypal.me/dr0dil" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center"/>
+  </a>
+  <a href="https://github.com/sponsors/drodil" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-Github-blue.svg?style=flat-square&color=orange&logo=githubsponsors" align="center"/>
+  </a>
 </div>  

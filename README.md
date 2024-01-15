@@ -13,9 +13,7 @@
 </div>
 <hr>
 <div align="center">
-  <a href="https://drodil.kapsi.fi" target="_blank">
-    <img src="https://img.shields.io/badge/Homepage-lightgrey?style=for-the-badge">
-  </a>
+
   <a href="https://github.com/drodil" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github/>
   </a>
@@ -44,7 +42,14 @@
 </div>
 <hr>
 <div align="center">
+  <a href="https://github.com/drodil?tab=followers" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/drodil?style=flat-square&logo=github">
+  </a>
+  <a href="https://stackoverflow.com/users/1118878">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/1118878?color=orange&label=reputation&logo=stackoverflow">
+  </a>
   <img src="https://komarev.com/ghpvc/?username=drodil&&style=flat-square" align="center" />
+<hr/>
    <a href="https://paypal.me/dr0dil" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center"/>
   </a>

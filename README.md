@@ -82,18 +82,13 @@
 </div>
 
 <div align="center">
-<br/>
-<hr/>
-<br/>
 
-<img alt="Profile views" src="https://visitcount.itsvg.in/api?id=drodil&icon=7&color=11" />
-<br/>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/drodil?style=flat-square&logo=github">
 <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/1118878?color=orange&label=reputation&logo=stackoverflow">
 
-<br/><br/>
+<br/>
 
-## 💰 You can help me by Donating
+## 💰 You can help my work by Donating
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@dr0dil) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/drodil) [![Github Sponsors](https://img.shields.io/badge/Donate-Github-blue.svg?style=for-the-badge&logoColor=white&logo=githubsponsors)](https://github.com/sponsors/drodil)
 

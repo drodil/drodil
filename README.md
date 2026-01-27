@@ -1,10 +1,5 @@
 <div align="center">
-  <!-- Header Image Placeholder - Service was unavailable, keeping original as fallback or removing if preferred. 
-       For now, I'll use a clean text header or the original if it still works, but the user said it doesn't render well. 
-       I will use a gradient text header instead for a "better solution". -->
-  <h1>Heikki Hellgren</h1>
-  <h3>Lead Developer | Open Source Contributor | Tech Blogger</h3>
-  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Heikki%20Hellgren&fontSize=90&fontAlignY=35&desc=Lead%20Developer%20%7C%20Open%20Source%20Contributor%20%7C%20Tech%20Blogger&descSize=20&descAlignY=65&descAlign=50" />
 </div>
 
 <p align="center">
@@ -33,6 +28,12 @@
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                       **Github Stats**                                                                                       |                                                                                           **Top Languages**                                                                                            |
 
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/drodil/drodil/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 <br/>
@@ -86,7 +87,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/drodil?style=flat-square&logo=github">
 <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/1118878?color=orange&label=reputation&logo=stackoverflow">
 
-<br/>
+<br/><br/>
 
 ## 💰 You can help my work by Donating
 
